@@ -88,7 +88,7 @@ local common = {
   SpecialChar = { fg = C.orange },
   Tag = { fg = C.blue },
   Debug = { fg = C.red },
-  Delimiter = { fg = C.fg },
+  Delimiter = { fg = C.orange },
   SpecialComment = { fg = C.gray },
   Underlined = { style = "underline" },
   Bold = { style = "bold" },
