@@ -69,7 +69,7 @@ local common = {
   Identifier = { fg = C.fg },
   Function = { fg = C.blue },
   Operator = { fg = C.purple },
-  Type = { fg = C.purple },
+  Type = { fg = C.yellow },
   StorageClass = { fg = C.cyan },
   Structure = { fg = C.purple },
   Typedef = { fg = C.purple },
